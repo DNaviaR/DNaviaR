@@ -1,12 +1,8 @@
-# <div align="center"> Hi there 👋</div>
+<h1 align="center"> Hi there 👋</h1>
 
 
-<!--
-**DNaviaR/DNaviaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Diego, a software developer from Spain. At the moment, I'm studying the last year of Multiplatform Application Design. You can come here whenever you want, I'll be pleased to share my works with you</p>
 
-Here are some ideas to get you started:
--->
-I'm Diego, a Spanish student currently doing 2º DAM
 
 - 🌱 I’m currently studying
 - 📫 dnaviar@gmail.com
